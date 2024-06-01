@@ -1,7 +1,7 @@
 function Premios () {
     return (
-        <div>
-            <h1>Premios</h1>
+        <div >
+            <h1>teste</h1>
         </div>
     )
 }
